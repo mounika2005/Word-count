@@ -25,8 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```
-Developed by : A.Lahari
-Registered number: 212223230111
+Developed by : LAKSHMI MOUNIKA
+Registered number: 212223100026
 
 def wordcount(filename):
     count=0
